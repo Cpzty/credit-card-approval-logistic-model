@@ -1,6 +1,8 @@
-Here we utilize data from the UCI Machine Learning repository to first preprocess data and create a Logistic Regression Model
+# Credit card approval
 
-Some highlight techniques include:
+## Here we utilize data from the UCI Machine Learning repository to first preprocess data and create a Logistic Regression Model
+
+### Some highlight techniques include:
 1. fillna with both numeric and non numeric
 2. StandardScaler
 3. One hot encoding with get_dummies
