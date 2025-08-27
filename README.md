@@ -9,3 +9,5 @@
 4. train_test_split
 5. confusion_matrix
 6. GridSearchCV for best model search
+
+This project is part of datacamp real world projects
